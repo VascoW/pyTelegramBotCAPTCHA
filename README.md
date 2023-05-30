@@ -13,7 +13,7 @@
 pip install pyTelegramBotCAPTCHA
 ```
 
-In the event to use the multicolor mode (default) you may also require to install the multicolorcaptcha module:
+In the event to use the multicolor mode or the default style you may also require to install the multicolorcaptcha module:
 ```
 pip install multicolorcaptcha
 ```
