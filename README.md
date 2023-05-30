@@ -25,14 +25,14 @@ Then this package can help you to protect your groups and members!
 It's very easy to integrate into your existing bot and also easy to customize the CAPTCHA image with your own fonts. <br />
 You can also choose between digits and hexdigits for your CAPTCHA generation. <br />
 *Note: You should have basic knowledge about the pyTelegramBotAPI* <br />
-Default:
-![Example1 'default generator'](https://i.ibb.co/fHxr7nh/Bildschirmfoto-2021-08-25-um-18-57-59.png "Example how it looks")
-Keyzend
-![Example2 'keyzend generator'](https://i.ibb.co/X7mkccY/Bildschirmfoto-2021-08-25-um-18-56-37.png "Example how it looks")
-Multicolor:
-![Example3 'multicolor generator'](https://i.suar.me/P2PVd/s "Example how it looks")
-Math:
-![Example4 'math generator'](https://i.suar.me/vXY00/s "Example how it looks")
+Default:<br />
+![Example1 'default generator'](https://i.ibb.co/fHxr7nh/Bildschirmfoto-2021-08-25-um-18-57-59.png "Example how it looks")<br />
+Keyzend<br />
+![Example2 'keyzend generator'](https://i.ibb.co/X7mkccY/Bildschirmfoto-2021-08-25-um-18-56-37.png "Example how it looks")<br />
+Multicolor:<br />
+![Example3 'multicolor generator'](https://i.suar.me/P2PVd/s "Example how it looks")<br />
+Math:<br />
+![Example4 'math generator'](https://i.suar.me/vXY00/s "Example how it looks")<br />
 
 ---
   
