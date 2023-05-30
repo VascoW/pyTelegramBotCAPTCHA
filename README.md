@@ -12,10 +12,11 @@
 ```
 pip install pyTelegramBotCAPTCHA
 ```
-  
-*Do not forget to update the package from time to time by calling <br />
-`pip install pyTelegramBotCAPTCHA --upgrade`*
-  
+
+In the event to use the multicolor mode (default) you may also require to install the multicolor module:
+```
+pip install multicolor
+```
 ---
   
 ## Description:
